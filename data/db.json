@@ -1,0 +1,583 @@
+{
+  "sessions": {
+    "ses_1790723655487_b62r": {
+      "id": "ses_1790723655487_b62r",
+      "title": "Which mark is needed for electric water he",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:23:26.773Z",
+      "updatedAt": "2026-09-29T23:23:26.773Z",
+      "messages": [
+        {
+          "id": "u-1790724206773",
+          "role": "user",
+          "content": "Which mark is needed for electric water heaters?",
+          "timestamp": "2026-09-29T23:23:26.773Z"
+        },
+        {
+          "id": "msg-1790724206773",
+          "role": "assistant",
+          "content": "Electric water heaters (geysers) are required to carry the **ISI mark** along with a valid Bureau of Indian Standards (BIS) license number. \n\nKey details based on official BIS records:\n\n* **Applicable Certification Scheme:** Scheme-I (CM/L license).\n* **Required Mark:** **ISI mark** (selling electric water heaters without the ISI mark and license number is strictly prohibited across India).\n* **Mandatory Standards:**\n  * **IS 302-2-21**: Covers safety and construction requirements (Safety of household and similar electrical appliances: Particular requirements for storage water heaters).\n  * **IS 2082**: Covers performance requirements, energy efficiency, standing loss, and functional testing.\n* **Mandatory Compliance:** Falls under mandatory BIS certification under the Quality Control Orders (QCO) issued by the Ministry of Heavy Industries.\n\n---\n\n###",
+          "citations": [
+            {
+              "title": "Electric Water Heaters & Geysers (IS 302-2-21 & IS 2082)",
+              "source": "Electrical Appliances QCO & IS 302-2-21",
+              "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/",
+              "lastUpdated": "2026-02-18"
+            },
+            {
+              "title": "IS 2082: Stationary Storage Type Electric Water Heaters - Specification",
+              "source": "Bureau of Indian Standards (IS 2082)",
+              "url": "https://www.manakonline.in",
+              "lastUpdated": "2018-01-01"
+            },
+            {
+              "title": "IS 302-2-21: Safety of Household and Similar Electrical Appliances - Particular Requirements for Storage Water Heaters",
+              "source": "Bureau of Indian Standards (IS 302-2-21)",
+              "url": "https://www.manakonline.in",
+              "lastUpdated": "2018-01-01"
+            },
+            {
+              "title": "Packaged Drinking Water and Mineral Water (IS 14543 & IS 13428)",
+              "source": "FSSAI & BIS Joint Notification & IS 14543",
+              "url": "https://www.bis.gov.in",
+              "lastUpdated": "2026-02-05"
+            },
+            {
+              "title": "Toys Safety Quality Control Order (IS 9873 & IS 15644)",
+              "source": "DPIIT Toys (Quality Control) Order",
+              "url": "https://www.bis.gov.in/toys-certification",
+              "lastUpdated": "2026-01-30"
+            }
+          ],
+          "confidence": "high",
+          "followUps": [
+            "What are the key safety and performance test parameters required under **IS 302-2-21** and **IS 2082**?",
+            "What is the process for domestic manufacturers to obtain a Scheme-I (CM/L) license for electric water heaters?",
+            "Since when has the Quality Control Order (QCO) for electric water heaters been mandatorily enforced?"
+          ],
+          "timestamp": "2026-09-29T23:23:26.773Z"
+        }
+      ]
+    },
+    "session-1790725042337": {
+      "id": "session-1790725042337",
+      "title": "What is a QCO?",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:37:22.340Z",
+      "updatedAt": "2026-09-29T23:37:22.340Z",
+      "messages": [
+        {
+          "id": "u-1790725042340",
+          "role": "user",
+          "content": "What is a QCO?",
+          "timestamp": "2026-09-29T23:37:22.340Z"
+        },
+        {
+          "id": "msg-1790725042340",
+          "role": "assistant",
+          "content": "I could not find specific information regarding your request in the BIS Knowledge Base.\n\nFor authoritative details, official standard copies, current fee schedules, or recent Quality Control Order (QCO) gazette notifications, please contact the **BIS Care Helpline at 1800-11-0001** or visit official portals [bis.gov.in](https://www.bis.gov.in) and [manakonline.in](https://www.manakonline.in).",
+          "confidence": "low",
+          "citations": [],
+          "followUps": [
+            "Which products have mandatory ISI mark under QCO?",
+            "What is the difference between ISI Mark and CRS Registration?",
+            "How do I verify a gold jewellery HUID on BIS CARE app?"
+          ],
+          "timestamp": "2026-09-29T23:37:22.340Z"
+        }
+      ]
+    },
+    "session-1790725042998": {
+      "id": "session-1790725042998",
+      "title": "hi",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:37:23.001Z",
+      "updatedAt": "2026-09-29T23:37:23.002Z",
+      "messages": [
+        {
+          "id": "u-1790725043001",
+          "role": "user",
+          "content": "hi",
+          "timestamp": "2026-09-29T23:37:23.001Z"
+        },
+        {
+          "id": "msg-1790725043001",
+          "role": "assistant",
+          "content": "I could not find specific information regarding your request in the BIS Knowledge Base.\n\nFor authoritative details, official standard copies, current fee schedules, or recent Quality Control Order (QCO) gazette notifications, please contact the **BIS Care Helpline at 1800-11-0001** or visit official portals [bis.gov.in](https://www.bis.gov.in) and [manakonline.in](https://www.manakonline.in).",
+          "confidence": "low",
+          "citations": [],
+          "followUps": [
+            "Which products have mandatory ISI mark under QCO?",
+            "What is the difference between ISI Mark and CRS Registration?",
+            "How do I verify a gold jewellery HUID on BIS CARE app?"
+          ],
+          "timestamp": "2026-09-29T23:37:23.001Z"
+        }
+      ]
+    },
+    "session-1790725220257": {
+      "id": "session-1790725220257",
+      "title": "Which mark is needed for helmets?",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:40:24.084Z",
+      "updatedAt": "2026-09-29T23:40:24.085Z",
+      "messages": [
+        {
+          "id": "u-1790725224084",
+          "role": "user",
+          "content": "Which mark is needed for helmets?",
+          "timestamp": "2026-09-29T23:40:24.084Z"
+        },
+        {
+          "id": "msg-1790725224084",
+          "role": "assistant",
+          "content": "For two-wheeler rider protective helmets in India, the mandatory requirement is the **ISI Mark** issued under the BIS Product Certification Scheme (Scheme I).\n\n### Key Requirements for Helmets:\n*   **Mandatory Standard:** All protective helmets for two-wheeler riders must conform to **IS 4151:2020**.\n*   **Legal Requirement:** Under the Ministry of Road Transport and Highways (MoRTH) Quality Control Order, it is illegal to manufacture or sell helmets in India without the ISI mark.\n*   **Verification:** A genuine ISI mark must include:\n    *   The standard number (**IS 4151**) above the mark.\n    *   A unique 7-to-10 digit **CM/L number** below the mark.\n*   **How to Verify:** You can verify the authenticity of a helmet's certification by entering the CM/L number on the [BIS Manak Online portal](https://www.manakonline.in/MANAK/SearchLicence) or by using the **BIS CARE App**. An ISI mark without a CM/L number is considered fake.\n\n*General guidance, verify on bis.gov.in.*",
+          "citations": [
+            {
+              "title": "Protective Helmets for Two-Wheeler Riders (IS 4151 - Mandatory ISI Mark)",
+              "source": "MoRTH Helmet Quality Control Order & IS 4151:2020",
+              "url": "https://www.bis.gov.in",
+              "lastUpdated": "2026-02-10",
+              "content": "Two-wheeler rider protective helmets fall under mandatory BIS ISI certification (Scheme I) notified by the Ministry of Road Transport and Highways (MoRTH). All protective helmets sold or manufactured in India must conform to IS 4151:2020. The standard prescribes rigorous tests including impact attenuation, retention system dynamic strength, audibility, and peripheral vision. Selling helmets without the ISI mark (or with non-compliant markings) is illegal under both the Motor Vehicles Act and BIS Act 2016."
+            },
+            {
+              "title": "IS 4151: Protective Helmets for Two-Wheeler Riders - Specification",
+              "source": "Bureau of Indian Standards (IS 4151)",
+              "url": "https://www.manakonline.in",
+              "lastUpdated": "2020-01-01",
+              "content": "Standard IS 4151 (2020) specifies Protective Helmets for Two-Wheeler Riders - Specification. Product Category: Automotive & Road Safety. Scheme: ISI. QCO Mandatory: Yes (Mandatory). Mandatory Enforcement Date: 2021-06-01. Scope Summary: Requirements for materials, construction, finish, mass, and performance tests for protective helmets for drivers and passengers of motorcycles and scooters.. Key Test Parameters: Impact Attenuation Test, Retention System Strength, Dynamic Chinstrap Test, Audibility Test, Peripheral Vision Angle."
+            },
+            {
+              "title": "Product Certification Scheme (ISI Mark - Scheme I)",
+              "source": "BIS Conformity Assessment Regulations, 2018 (Scheme-I)",
+              "url": "https://www.manakonline.in",
+              "lastUpdated": "2026-02-10",
+              "content": "The ISI Mark (Product Certification Scheme I) is the primary third-party quality and safety certification in India. Under Scheme I, manufacturers apply on Manak Online (manakonline.in), maintain an in-house laboratory with calibrated test equipment, undergo a factory inspection by BIS technical officers, and have independent samples tested in BIS-recognized labs. Once approved, BIS grants a Certificate of Manufacture and License (CM/L) number, which must be stamped on products along with the specific IS number."
+            },
+            {
+              "title": "How to Verify an ISI Mark and CM/L Number",
+              "source": "BIS Citizen Charter & License Verification Portal",
+              "url": "https://www.manakonline.in/MANAK/SearchLicence",
+              "lastUpdated": "2026-02-20",
+              "content": "To verify whether an ISI mark on a product is genuine: (1) Look for the standard ISI logo accompanied by the Indian Standard number above the mark (e.g. IS 302-2-21) and the 7-to-10 digit Certificate of Manufacture & License (CM/L) number below the mark; (2) Open the BIS CARE App or visit manakonline.in; (3) Navigate to 'Verify License / CM/L Number'; (4) Enter the CM/L number; (5) The system verifies whether the license is Valid, Expired, Suspended, or Cancelled, displaying the licensee's name, brand, product scope, and manufacturing address. An ISI mark without a CM/L number is fake."
+            }
+          ],
+          "confidence": "medium",
+          "followUps": [
+            "How do I apply for an ISI license for manufacturing helmets?",
+            "What are the specific performance tests required under IS 4151:2020?",
+            "How can I report a manufacturer selling non-ISI marked helmets?"
+          ],
+          "timestamp": "2026-09-29T23:40:24.084Z"
+        }
+      ]
+    },
+    "session-1790725224101": {
+      "id": "session-1790725224101",
+      "title": "How do I register electronics under CRS?",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:40:28.585Z",
+      "updatedAt": "2026-09-29T23:40:28.585Z",
+      "messages": [
+        {
+          "id": "u-1790725228585",
+          "role": "user",
+          "content": "How do I register electronics under CRS?",
+          "timestamp": "2026-09-29T23:40:28.585Z"
+        },
+        {
+          "id": "msg-1790725228585",
+          "role": "assistant",
+          "content": "To register electronic products under the Compulsory Registration Scheme (CRS - Scheme II), you must follow the procedure established by the Bureau of Indian Standards (BIS) and the Ministry of Electronics and Information Technology (MeitY).\n\n### **Step-by-Step Registration Procedure**\n\n1.  **Portal Registration:** Create an account on the official [CRS Portal](https://www.crsbis.in).\n2.  **Appoint an AIR:** If you are a foreign manufacturer, you must appoint an Authorized Indian Representative (AIR) to act on your behalf.\n3.  **Product Testing:** Submit your product samples to a BIS-recognized test laboratory in India. The product must be tested against the relevant Indian Standard (e.g., **IS 13252 (Part 1)** for IT equipment, **IS 16046** for batteries, or **IS 616** for audio/video equipment).\n4.  **Obtain Test Report:** Ensure you receive the test report from the laboratory. Note that the report is valid for 90 days from the date of issuance.\n5.  **Application Submission:** Upload the test report and submit your application along with the prescribed fees through the CRS portal.\n6.  **Grant of Registration:** BIS will scrutinize your application. Upon successful verification, a unique Registration Number (R-number) will be granted.\n7.  **Labeling:** Once registered, you must affix the BIS standard mark and your R-number on the product and its packaging in the format: *\"Self Declaration - Conforming to IS [Number], R-[Number]\"*.\n\n### **Key Points to Remember**\n*   **No Factory Audit:** Unlike other BIS certification schemes, the CRS (Scheme II) does not require a preliminary factory audit.\n*   **Mandatory Compliance:** For products like laptops, power banks, and smart wearables, registration must be completed and the R-number obtained **before** the products arrive at customs or are sold in the Indian market.\n*   **Standard References:** Always verify the specific Indian Standard applicable to your product category (e.g., **IS 13252 (Part 1)** for IT hardware).\n\n*General guidance, verify on bis.gov.in.*\n\n***\n\n**",
+          "citations": [
+            {
+              "title": "Compulsory Registration Scheme (CRS - Scheme II) for Electronics & IT",
+              "source": "MeitY Compulsory Registration Order & BIS CRS Portal",
+              "url": "https://www.crsbis.in",
+              "lastUpdated": "2026-01-20",
+              "content": "The Compulsory Registration Scheme (CRS - Scheme II) applies to electronic, telecom, and IT equipment in coordination with MeitY and MNRE. Under CRS, foreign and domestic manufacturers submit product samples directly to BIS-recognized laboratories in India. Upon satisfactory test reports, BIS issues a unique Registration Number (R-number, e.g. R-41001234). Products must carry the official BIS standard label: 'Self Declaration - Conforming to IS [Number], R-[Number]'. No preliminary factory audit is required under CRS."
+            },
+            {
+              "title": "Step-by-Step Procedure to Register Electronics under CRS",
+              "source": "BIS Guidelines for Grant of Registration under Scheme-II",
+              "url": "https://www.crsbis.in",
+              "lastUpdated": "2026-02-01",
+              "content": "To register electronics under CRS (Scheme II): (1) Create an account on the CRS portal (crsbis.in); (2) If foreign manufacturer, appoint an Authorized Indian Representative (AIR); (3) Submit product samples to a BIS-recognized test laboratory in India for safety testing against the applicable Indian Standard; (4) Obtain the test report (valid for 90 days from issuance); (5) Upload test report and submit application with prescribed fees on the CRS portal; (6) BIS scrutinizes the application and grants the R-number; (7) Affix the BIS standard mark and R-number on product and packaging before commercial shipment or customs clearance."
+            },
+            {
+              "title": "Portable Power Banks (IS 13252 Part 1 & IS 16046)",
+              "source": "MeitY CRS Product Schedule",
+              "url": "https://www.crsbis.in",
+              "lastUpdated": "2026-01-22",
+              "content": "Portable power banks require mandatory BIS Compulsory Registration Scheme (CRS) certification. Safety evaluation encompasses overall circuit protection under IS 13252 (Part 1) and internal lithium battery cell testing under IS 16046 (Part 2). Products must bear the official BIS CRS registration label."
+            },
+            {
+              "title": "Smart Watches, Bluetooth Speakers, and Wearables (IS 13252 / IS 616)",
+              "source": "MeitY CRS Wearables Notification",
+              "url": "https://www.crsbis.in",
+              "lastUpdated": "2026-01-16",
+              "content": "Smart watches, fitness trackers, wireless audio equipment, and Bluetooth speakers require mandatory registration under CRS (Scheme II). Equipment is evaluated for battery electrical safety (IS 16046) and device safety (IS 13252 Part 1 or IS 616 for audio/video equipment)."
+            }
+          ],
+          "confidence": "medium",
+          "followUps": [
+            "How do I find a BIS-recognized laboratory for my specific product?",
+            "What are the specific documentation requirements for appointing an Authorized Indian Representative (AIR)?",
+            "How can I check if my product category is covered under the current CRS schedule?"
+          ],
+          "timestamp": "2026-09-29T23:40:28.585Z"
+        }
+      ]
+    },
+    "session-1790725228592": {
+      "id": "session-1790725228592",
+      "title": "What is hallmarking?",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:40:32.114Z",
+      "updatedAt": "2026-09-29T23:40:32.114Z",
+      "messages": [
+        {
+          "id": "u-1790725232114",
+          "role": "user",
+          "content": "What is hallmarking?",
+          "timestamp": "2026-09-29T23:40:32.114Z"
+        },
+        {
+          "id": "msg-1790725232114",
+          "role": "assistant",
+          "content": "As \"BIS Sahayak,\" I am pleased to assist you with your query regarding hallmarking.\n\n### What is Hallmarking?\n\nHallmarking is the official certification of the proportionate content of precious metal in jewellery or artefacts. It acts as a guarantee of purity and fineness, protecting consumers against under-caratage and ensuring they receive the quality they pay for.\n\nIn India, the hallmarking process is governed by the Bureau of Indian Standards (BIS) and involves the following key aspects:\n\n*   **Gold Hallmarking (**IS 1417**):** Mandatory in notified districts, gold jewellery must be hallmarked for three standard purity grades: 22K (916 fineness), 18K (750 fineness), and 14K (585 fineness). Every hallmarked gold ornament must bear:\n    *   The BIS hallmark triangle logo.\n    *   The purity and fineness designation (e.g., 22K916).\n    *   A 6-character alphanumeric **Hallmark Unique Identification (HUID)** code.\n*   **Silver Hallmarking (**IS 2112**):** This is currently a voluntary scheme. Recognized purity grades for silver include 990, 925, 900, 835, and 800 parts per thousand.\n*   **Verification:** Consumers can verify the authenticity of hallmarked gold jewellery by using the \"Verify HUID\" feature on the **BIS CARE App**. This provides details such as the jeweller's registration, the Assaying and Hallmarking Centre (AHC) details, and the certified purity.\n\nFor further details on specific standards or the registration process for jewellers, please visit [bis.gov.in](https://www.bis.gov.in).\n\n***\n\n**",
+          "citations": [
+            {
+              "title": "Hallmarking Scheme for Gold Jewellery (IS 1417 & HUID)",
+              "source": "BIS Hallmarking Regulations & IS 1417",
+              "url": "https://www.bis.gov.in/hallmarking-overview",
+              "lastUpdated": "2026-02-01",
+              "content": "Hallmarking certifies the purity and fineness of gold and silver articles. Mandatory gold hallmarking applies across notified districts in India for three standard purity grades: 22K (916 fineness), 18K (750 fineness), and 14K (585 fineness) according to IS 1417. Every hallmarked gold ornament must bear three marks: (1) The BIS hallmark triangle logo, (2) Purity and fineness designation (e.g. 22K916), and (3) A 6-character alphanumeric laser-engraved Hallmark Unique Identification (HUID) code issued by an Assaying and Hallmarking Centre (AHC)."
+            },
+            {
+              "title": "IS 1417: Gold and Gold Alloys, Jewellery/Artefacts - Fineness and Marking - Specification",
+              "source": "Bureau of Indian Standards (IS 1417)",
+              "url": "https://www.manakonline.in",
+              "lastUpdated": "2016-01-01",
+              "content": "Standard IS 1417 (2016) specifies Gold and Gold Alloys, Jewellery/Artefacts - Fineness and Marking - Specification. Product Category: Precious Metals & Jewellery. Scheme: Hallmark. QCO Mandatory: Yes (Mandatory). Mandatory Enforcement Date: 2021-06-23. Scope Summary: Specifies the composition and fineness requirements of gold alloys used for manufacture of articles or jewellery and rules for hallmarking.. Key Test Parameters: Fire Assay (Cupellation) Method, X-Ray Fluorescence (XRF) Screening, HUID Laser Engraving Quality."
+            },
+            {
+              "title": "Silver Hallmarking Scheme (IS 2112)",
+              "source": "BIS Hallmarking Guidelines for Silver & IS 2112",
+              "url": "https://www.bis.gov.in/hallmarking-silver",
+              "lastUpdated": "2026-01-25",
+              "content": "Hallmarking of silver jewellery and artefacts is governed by IS 2112. Recognized silver purity grades include 990 (fine silver), 925 (sterling silver), 900, 835, and 800 parts per thousand. Silver articles assayed at BIS-recognized AHCs receive the BIS hallmark mark along with the purity grade and jeweller's identification. Silver hallmarking provides verified consumer protection against under-caratage and debased alloys."
+            },
+            {
+              "title": "How to Verify Gold Jewellery HUID on BIS CARE App",
+              "source": "BIS Consumer Affairs & HUID Verification Manual",
+              "url": "https://www.manakonline.in/MANAK/HUID",
+              "lastUpdated": "2026-02-15",
+              "content": "Consumers can independently verify the authenticity of hallmarked gold jewellery using the free BIS CARE Mobile App: (1) Open BIS CARE App and tap 'Verify HUID'; (2) Enter the 6-character alphanumeric code laser-engraved on the jewellery piece; (3) The app instantly displays the Jeweller's BIS registration number and name, Assaying & Hallmarking Centre (AHC) details, article type (ring, bangle, chain), date of hallmarking, and certified purity grade. If the HUID does not appear or shows discrepancy, consumers can lodge a complaint directly in the app."
+            }
+          ],
+          "confidence": "medium",
+          "followUps": [
+            "How can I verify the HUID of my gold jewellery using the BIS CARE App?",
+            "What are the mandatory purity grades for gold jewellery under IS 1417?",
+            "Is silver hallmarking mandatory in India?"
+          ],
+          "timestamp": "2026-09-29T23:40:32.114Z"
+        }
+      ]
+    },
+    "session-1790725232121": {
+      "id": "session-1790725232121",
+      "title": "How to verify an ISI mark?",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:40:37.268Z",
+      "updatedAt": "2026-09-29T23:40:37.268Z",
+      "messages": [
+        {
+          "id": "u-1790725237267",
+          "role": "user",
+          "content": "How to verify an ISI mark?",
+          "timestamp": "2026-09-29T23:40:37.267Z"
+        },
+        {
+          "id": "msg-1790725237267",
+          "role": "assistant",
+          "content": "To verify the authenticity of an ISI mark on a product, please follow these steps based on the **BIS Citizen Charter & License Verification Portal** and the **BIS CARE App**:\n\n### Steps to Verify an ISI Mark\n1.  **Check the Mark:** A genuine ISI mark must display:\n    *   The standard ISI logo.\n    *   The relevant Indian Standard number (e.g., **IS 4151** for helmets) above the mark.\n    *   A 7-to-10 digit **CM/L (Certificate of Manufacture & License) number** below the mark. \n    *   *Note: An ISI mark without a CM/L number is considered fake.*\n\n2.  **Use Digital Verification Tools:**\n    *   **BIS CARE App:** Download the app (available on Android and iOS). Use the **'Verify License / R-Number'** feature to enter the CM/L number.\n    *   **Manak Online Portal:** Visit [manakonline.in](https://www.manakonline.in/MANAK/SearchLicence) and navigate to the 'Verify License / CM/L Number' section.\n\n3.  **Review Results:** The system will display the current status of the license (Valid, Expired, Suspended, or Cancelled), along with the licensee's name, brand, product scope, and manufacturing address.\n\n4.  **Report Discrepancies:** If you find a product with a fake mark or if the details do not match, you can use the **'File a Complaint'** feature within the BIS CARE App to submit a geo-tagged photo complaint.\n\n*General guidance, verify on bis.gov.in: Always ensure the product you are purchasing is within the valid scope of the license displayed on the portal.*\n\n***\n\n**",
+          "citations": [
+            {
+              "title": "How to Verify an ISI Mark and CM/L Number",
+              "source": "BIS Citizen Charter & License Verification Portal",
+              "url": "https://www.manakonline.in/MANAK/SearchLicence",
+              "lastUpdated": "2026-02-20",
+              "content": "To verify whether an ISI mark on a product is genuine: (1) Look for the standard ISI logo accompanied by the Indian Standard number above the mark (e.g. IS 302-2-21) and the 7-to-10 digit Certificate of Manufacture & License (CM/L) number below the mark; (2) Open the BIS CARE App or visit manakonline.in; (3) Navigate to 'Verify License / CM/L Number'; (4) Enter the CM/L number; (5) The system verifies whether the license is Valid, Expired, Suspended, or Cancelled, displaying the licensee's name, brand, product scope, and manufacturing address. An ISI mark without a CM/L number is fake."
+            },
+            {
+              "title": "BIS CARE Mobile App Complete Feature Guide",
+              "source": "BIS Consumer Affairs Mobile Services",
+              "url": "https://www.bis.gov.in/consumer-portal/bis-care-app/",
+              "lastUpdated": "2026-02-20",
+              "content": "The BIS CARE App (Android and iOS) provides 4 primary tools: (1) 'Verify License / R-Number': verifies authenticity, licensee name, brand, and validity status of any ISI CM/L or CRS R-number; (2) 'Verify HUID': retrieves jeweller, AHC, purity grade, and hallmarking date of gold jewellery; (3) 'File a Complaint': allows geo-tagged photo complaints against substandard goods or fake marks; (4) 'Know Your Standards': search Indian Standards catalog directly on mobile."
+            },
+            {
+              "title": "Product Certification Scheme (ISI Mark - Scheme I)",
+              "source": "BIS Conformity Assessment Regulations, 2018 (Scheme-I)",
+              "url": "https://www.manakonline.in",
+              "lastUpdated": "2026-02-10",
+              "content": "The ISI Mark (Product Certification Scheme I) is the primary third-party quality and safety certification in India. Under Scheme I, manufacturers apply on Manak Online (manakonline.in), maintain an in-house laboratory with calibrated test equipment, undergo a factory inspection by BIS technical officers, and have independent samples tested in BIS-recognized labs. Once approved, BIS grants a Certificate of Manufacture and License (CM/L) number, which must be stamped on products along with the specific IS number."
+            },
+            {
+              "title": "License Renewal and Surveillance Audits",
+              "source": "BIS Conformity Assessment Regulations 2018",
+              "url": "https://www.bis.gov.in",
+              "lastUpdated": "2026-02-09",
+              "content": "A BIS ISI license (CM/L) is initially granted for 1 to 2 years and can be renewed for up to 5 years upon filing renewal forms and paying marking fees. During the validity period, BIS officers perform unannounced factory surveillance audits and collect open-market random samples for independent laboratory testing. Repeated testing failures lead to license suspension."
+            }
+          ],
+          "confidence": "high",
+          "followUps": [
+            "How do I check if a specific product category requires mandatory BIS certification?",
+            "What is the difference between an ISI mark (Scheme I) and a CRS R-number?",
+            "How can I report a manufacturer for selling substandard goods?"
+          ],
+          "timestamp": "2026-09-29T23:40:37.268Z"
+        }
+      ]
+    },
+    "session-1790725237274": {
+      "id": "session-1790725237274",
+      "title": "How to file a complaint about a bad produc",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:40:40.980Z",
+      "updatedAt": "2026-09-29T23:40:40.981Z",
+      "messages": [
+        {
+          "id": "u-1790725240980",
+          "role": "user",
+          "content": "How to file a complaint about a bad product?",
+          "timestamp": "2026-09-29T23:40:40.980Z"
+        },
+        {
+          "id": "msg-1790725240980",
+          "role": "assistant",
+          "content": "If you have encountered a substandard product or suspect a counterfeit ISI mark, you can file a formal complaint with the Bureau of Indian Standards (BIS) through the following channels:\n\n### How to File a Complaint\n1.  **BIS CARE App:** Download the app (available on Android and iOS), navigate to the **'File a Complaint'** section, and submit your grievance. This feature allows you to upload geo-tagged photographs of the product.\n2.  **Email:** Send your complaint details to **complaints@bis.gov.in**.\n3.  **Toll-Free Helpline:** Call the National Consumer Toll-Free Helpline at **1800-11-0001**.\n\n### Information Required for Your Complaint\nTo ensure your complaint is processed effectively, please provide the following details:\n*   **Product Details:** Name of the product, brand, and batch number.\n*   **Store Information:** Name and full address of the shop or establishment where the product was purchased or observed.\n*   **Evidence:** Attach supporting documents such as your purchase bill/cash memo and clear photographs showing the product label and the standard mark (ISI mark).\n\n### What Happens Next?\nOnce a complaint is registered, BIS enforcement officers may initiate an inspection or raid. Under **Section 29 of the BIS Act 2016**, the misuse of a standard mark or the sale of substandard goods can lead to the seizure of non-compliant stock and criminal prosecution.\n\n*Source: [Source 1] BIS Consumer Grievance Redressal Mechanism*\n\n***\n\n**",
+          "citations": [
+            {
+              "title": "How to File a Complaint About a Bad or Counterfeit Product",
+              "source": "BIS Consumer Grievance Redressal Mechanism",
+              "url": "https://www.bis.gov.in/consumer-complaints",
+              "lastUpdated": "2026-02-22",
+              "content": "If you encounter a substandard product bearing an ISI mark, a fake mark without CM/L number, or deceptive hallmarking: (1) Open the BIS CARE App and tap 'File a Complaint', or email complaints@bis.gov.in, or call 1800-11-0001; (2) Select the grievance category (Misuse of Standard Mark, Substandard Product, or Hallmarking Fraud); (3) Provide product details, store name, brand, and address; (4) Attach supporting evidence: purchase bill/cash memo, photographs showing the product label, batch number, and mark; (5) BIS enforcement officers register an inspection/raid, seize non-compliant stock, and initiate criminal prosecution under Section 29 of the BIS Act."
+            },
+            {
+              "title": "Penalties for Fake ISI Marks and Violations of BIS Act 2016",
+              "source": "BIS Act 2016 Penalties & Enforcement Division",
+              "url": "https://www.bis.gov.in/enforcement-guidelines",
+              "lastUpdated": "2026-02-18",
+              "content": "Under Section 29 of the BIS Act 2016, any person or company using a counterfeit standard mark, using the ISI mark without a valid license, or violating mandatory Quality Control Orders faces severe legal penalties: imprisonment for up to two years, or a monetary fine of not less than Rs. 2 lakh extending up to ten times the value of goods produced or sold, or both. BIS Enforcement wings routinely carry out raids and seizures across all states."
+            },
+            {
+              "title": "BIS CARE Mobile App Complete Feature Guide",
+              "source": "BIS Consumer Affairs Mobile Services",
+              "url": "https://www.bis.gov.in/consumer-portal/bis-care-app/",
+              "lastUpdated": "2026-02-20",
+              "content": "The BIS CARE App (Android and iOS) provides 4 primary tools: (1) 'Verify License / R-Number': verifies authenticity, licensee name, brand, and validity status of any ISI CM/L or CRS R-number; (2) 'Verify HUID': retrieves jeweller, AHC, purity grade, and hallmarking date of gold jewellery; (3) 'File a Complaint': allows geo-tagged photo complaints against substandard goods or fake marks; (4) 'Know Your Standards': search Indian Standards catalog directly on mobile."
+            },
+            {
+              "title": "Quality Control Orders (QCO) - Mandatory Legal Enforcement",
+              "source": "BIS Act 2016 Section 16 & Gazette Notifications",
+              "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/",
+              "lastUpdated": "2026-02-15",
+              "content": "Under Section 16 of the BIS Act 2016, Central Ministries (such as DPIIT, Ministry of Steel, Ministry of Power, MeitY, and Ministry of Chemicals) issue Quality Control Orders (QCOs) in public interest, human safety, and environmental protection. When a product is covered under a QCO, manufacturing, importing, stocking, selling, or distributing that product without a valid BIS mark is a non-bailable offense punishable by fines up to Rs. 5 lakh or imprisonment up to 2 years, or both. Customs blocks all imports lacking mandatory BIS certification."
+            }
+          ],
+          "confidence": "high",
+          "followUps": [
+            "How can I verify if an ISI mark on a product is genuine before buying it?",
+            "What are the penalties for selling products that violate Quality Control Orders (QCOs)?",
+            "How do I check the status of a BIS license using the CM/L number?"
+          ],
+          "timestamp": "2026-09-29T23:40:40.980Z"
+        }
+      ]
+    },
+    "session-1790725240987": {
+      "id": "session-1790725240987",
+      "title": "What is a QCO?",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:40:48.645Z",
+      "updatedAt": "2026-09-29T23:40:48.645Z",
+      "messages": [
+        {
+          "id": "u-1790725248645",
+          "role": "user",
+          "content": "What is a QCO?",
+          "timestamp": "2026-09-29T23:40:48.645Z"
+        },
+        {
+          "id": "msg-1790725248645",
+          "role": "assistant",
+          "content": "A **Quality Control Order (QCO)** is a mandatory legal instrument issued by Central Ministries (such as DPIIT, Ministry of Steel, Ministry of Power, MeitY, or Ministry of Chemicals) under **Section 16 of the BIS Act 2016**.\n\nKey aspects of a QCO include:\n\n*   **Purpose:** QCOs are issued in the public interest to ensure human safety, environmental protection, and the quality of goods available in the Indian market.\n*   **Mandatory Compliance:** Once a product is covered under a QCO, it is illegal to manufacture, import, stock, sell, or distribute that product without a valid BIS Standard Mark (ISI mark).\n*   **Legal Consequences:** Violating a QCO is a non-bailable offense. Penalties under the BIS Act 2016 include:\n    *   Fines up to Rs. 5 lakh.\n    *   Imprisonment for up to 2 years.\n    *   For counterfeit marks or unauthorized use, fines can extend up to ten times the value of the goods produced or sold.\n*   **Import Control:** Customs authorities block all imports of products covered under a QCO if they lack the required BIS certification.\n\n*Source: [Source 1] BIS Act 2016 Section 16 & Gazette Notifications; [Source 2] BIS Act 2016 Penalties & Enforcement Division.*\n\n***\n\n**",
+          "citations": [
+            {
+              "title": "Quality Control Orders (QCO) - Mandatory Legal Enforcement",
+              "source": "BIS Act 2016 Section 16 & Gazette Notifications",
+              "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/",
+              "lastUpdated": "2026-02-15",
+              "content": "Under Section 16 of the BIS Act 2016, Central Ministries (such as DPIIT, Ministry of Steel, Ministry of Power, MeitY, and Ministry of Chemicals) issue Quality Control Orders (QCOs) in public interest, human safety, and environmental protection. When a product is covered under a QCO, manufacturing, importing, stocking, selling, or distributing that product without a valid BIS mark is a non-bailable offense punishable by fines up to Rs. 5 lakh or imprisonment up to 2 years, or both. Customs blocks all imports lacking mandatory BIS certification."
+            },
+            {
+              "title": "Penalties for Fake ISI Marks and Violations of BIS Act 2016",
+              "source": "BIS Act 2016 Penalties & Enforcement Division",
+              "url": "https://www.bis.gov.in/enforcement-guidelines",
+              "lastUpdated": "2026-02-18",
+              "content": "Under Section 29 of the BIS Act 2016, any person or company using a counterfeit standard mark, using the ISI mark without a valid license, or violating mandatory Quality Control Orders faces severe legal penalties: imprisonment for up to two years, or a monetary fine of not less than Rs. 2 lakh extending up to ten times the value of goods produced or sold, or both. BIS Enforcement wings routinely carry out raids and seizures across all states."
+            },
+            {
+              "title": "Footwear Quality Control Orders (Leather, Sports and Rubber Shoes)",
+              "source": "DPIIT Footwear Quality Control Orders",
+              "url": "https://www.bis.gov.in",
+              "lastUpdated": "2026-02-14",
+              "content": "DPIIT notified mandatory BIS ISI certification for footwear through two key orders: Footwear Made from Leather and Other Materials Order, and Footwear Made from All-Rubber and Polymeric Materials Order. Standards include IS 15844 (Sports footwear), IS 3735 (Canvas shoes rubber sole), and IS 17043 (Derby leather shoes). Shoes undergo outsole abrasion, sole flexing, and bond adhesion testing. Micro footwear makers enjoy extended compliance phases."
+            },
+            {
+              "title": "Plywood, Flush Doors and Wooden Panels (IS 303 & IS 710)",
+              "source": "DPIIT Wood Based Products QCO",
+              "url": "https://www.bis.gov.in",
+              "lastUpdated": "2026-02-14",
+              "content": "Plywood for general purposes (IS 303), marine plywood (IS 710), and wooden flush door shutters (IS 2202) fall under mandatory Quality Control Orders notified by DPIIT. Manufacturers must hold an ISI license with factory testing for moisture resistance, glue shear strength, water resistance immersion cycles, and mycological resistance."
+            }
+          ],
+          "confidence": "medium",
+          "followUps": [
+            "How can I check if my specific product is covered under a Quality Control Order?",
+            "What is the process for obtaining a BIS license for a product under a QCO?",
+            "Are there any exemptions or simplified protocols for MSMEs under QCOs?"
+          ],
+          "timestamp": "2026-09-29T23:40:48.645Z"
+        }
+      ]
+    },
+    "session-1790725248651": {
+      "id": "session-1790725248651",
+      "title": "IS 302",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:40:52.736Z",
+      "updatedAt": "2026-09-29T23:40:52.736Z",
+      "messages": [
+        {
+          "id": "u-1790725252736",
+          "role": "user",
+          "content": "IS 302",
+          "timestamp": "2026-09-29T23:40:52.736Z"
+        },
+        {
+          "id": "msg-1790725252736",
+          "role": "assistant",
+          "content": "Hello! I am \"BIS Sahayak,\" your assistant for Bureau of Indian Standards queries.\n\n**IS 302** is the foundational Indian Standard series that prescribes safety requirements for household and similar electrical appliances. It is designed to protect users against electrical shock, excessive temperature, fire hazards, and mechanical injury.\n\n### Overview of IS 302\n*   **Scope:** It applies to electrical appliances operating on single-phase AC up to 250V or other voltages up to 480V.\n*   **Structure:** \n    *   **IS 302 (Part 1):** General requirements applicable to most household electrical appliances.\n    *   **Part 2 Standards:** These are \"Particular Requirements\" that must be read in conjunction with Part 1 for specific products. Examples include:\n        *   **IS 302-2-3**: Electric Irons (Dry and Steam).\n        *   **IS 302-2-21**: Stationary Storage Water Heaters (Geysers).\n        *   **IS 302-2-25**: Microwave Ovens.\n        *   **IS 302-2-26**: Clocks.\n        *   **IS 302-2-35**: Instantaneous Water Heaters.\n\n### Mandatory Certification\nMany products covered under the **IS 302** series are subject to Quality Control Orders (QCOs), making BIS ISI certification mandatory for manufacturing, importing, or selling these items in India. \n\n*   **Verification:** You can verify if a product is genuinely certified by checking for the ISI mark, the relevant IS number, and the 7-to-10 digit **CM/L number**. You can verify these details via the [BIS CARE App](https://www.bis.gov.in) or the [Manakonline portal](https://www.manakonline.in/MANAK/SearchLicence).\n\n*General guidance, verify on bis.gov.in: For specific compliance procedures, application fees, or the latest list of products under mandatory certification, please visit the official BIS website or contact the BIS Care line at 1800-11-0001.*\n\n***\n\n**",
+          "citations": [
+            {
+              "title": "IS 302 General Electrical Safety Standards for Appliances",
+              "source": "Bureau of Indian Standards Electrotechnical Committee (ETD 32)",
+              "url": "https://www.services.bis.gov.in",
+              "lastUpdated": "2026-01-30",
+              "content": "IS 302 (Part 1) is the foundational Indian Standard prescribing safety requirements for household and similar electrical appliances operating on single-phase AC up to 250V or other voltages up to 480V. Specific Part 2 standards cover particular appliances: IS 302-2-3 (Electric Irons), IS 302-2-21 (Storage Water Heaters), IS 302-2-25 (Microwave Ovens), IS 302-2-26 (Clocks), and IS 302-2-35 (Instantaneous Water Heaters). Compliance with IS 302 ensures protection against electrical shock, excessive temperature, fire hazards, and mechanical injury."
+            },
+            {
+              "title": "Electric Water Heaters & Geysers (IS 302-2-21 & IS 2082)",
+              "source": "Electrical Appliances QCO & IS 302-2-21",
+              "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/",
+              "lastUpdated": "2026-02-18",
+              "content": "Stationary storage electric water heaters (geysers) require mandatory BIS ISI certification (Scheme I) under Quality Control Orders. Safety is governed by IS 302-2-21 (Safety of household electrical appliances: Particular requirements for storage water heaters) read with general safety standard IS 302-1, and performance/energy efficiency is covered by IS 2082. All geysers must undergo high-voltage dielectric tests, standing heat loss tests, and pressure tank rupture resistance tests before receiving a CM/L license."
+            },
+            {
+              "title": "IS 302-2-21: Safety of Household and Similar Electrical Appliances - Particular Requirements for Storage Water Heaters",
+              "source": "Bureau of Indian Standards (IS 302-2-21)",
+              "url": "https://www.manakonline.in",
+              "lastUpdated": "2018-01-01",
+              "content": "Standard IS 302-2-21 (2018) specifies Safety of Household and Similar Electrical Appliances - Particular Requirements for Storage Water Heaters. Product Category: Electrical Appliances. Scheme: ISI. QCO Mandatory: Yes (Mandatory). Mandatory Enforcement Date: 2020-06-01. Scope Summary: Specifies safety and construction requirements for stationary electric storage water heaters intended for heating water below boiling temperature in domestic and commercial premises.. Key Test Parameters: Electrical Insulation Resistance, Dielectric Strength at High Voltage, Water Pressure Resistance, Thermal Cut-out Functionality, Earth Continuity."
+            },
+            {
+              "title": "IS 302-2-3: Safety of Household and Similar Electrical Appliances - Particular Requirements for Electric Irons",
+              "source": "Bureau of Indian Standards (IS 302-2-3)",
+              "url": "https://www.manakonline.in",
+              "lastUpdated": "2007-01-01",
+              "content": "Standard IS 302-2-3 (2007) specifies Safety of Household and Similar Electrical Appliances - Particular Requirements for Electric Irons. Product Category: Electrical Appliances. Scheme: ISI. QCO Mandatory: Yes (Mandatory). Mandatory Enforcement Date: 2021-01-01. Scope Summary: Safety guidelines for dry and steam electric irons intended for household and similar use.. Key Test Parameters: Temperature Control, Drop Impact Resistance, Leakage Current, Cord Anchorage Test."
+            }
+          ],
+          "confidence": "high",
+          "followUps": [
+            "How do I apply for a BIS license for an electrical appliance under IS 302?",
+            "What are the specific testing parameters for a product covered under IS 302-2-21 (Storage Water Heaters)?",
+            "How can I report a product that has a fake ISI mark?"
+          ],
+          "timestamp": "2026-09-29T23:40:52.736Z"
+        }
+      ]
+    },
+    "session-1790725252743": {
+      "id": "session-1790725252743",
+      "title": "hi",
+      "audience": "industry",
+      "language": "en",
+      "createdAt": "2026-09-29T23:40:52.743Z",
+      "updatedAt": "2026-09-29T23:40:52.743Z",
+      "messages": [
+        {
+          "id": "u-1790725252743",
+          "role": "user",
+          "content": "hi",
+          "timestamp": "2026-09-29T23:40:52.743Z"
+        },
+        {
+          "id": "msg-1790725252743",
+          "role": "assistant",
+          "content": "Hello! I am **BIS Sahayak**, your official AI Assistant for Indian Standards and Bureau of Indian Standards (BIS) services.\n\nI can assist you across all official regulatory topics:\n- **Indian Standards & QCOs**: Finding standards for helmets, electrical appliances, water heaters, toys, cables, steel, and packaged water.\n- **Certification Schemes**: Step-by-step guidance for ISI Mark (Scheme-I), Compulsory Registration (CRS Scheme-II), and FMCS for foreign manufacturers.\n- **Hallmarking**: Verifying gold and silver jewellery purity and 6-digit HUID authenticity.\n- **License Verification & Complaints**: Checking CM/L and R-numbers, or filing grievances against fake marks under the BIS Act 2016.\n\nHow can I help you today?",
+          "confidence": "high",
+          "citations": [],
+          "followUps": [
+            "Which mark is needed for helmets?",
+            "How do I register electronics under CRS?",
+            "What is a QCO?"
+          ],
+          "timestamp": "2026-09-29T23:40:52.743Z"
+        }
+      ]
+    }
+  },
+  "feedback": [],
+  "unansweredQueries": [
+    {
+      "id": "unans-1790725043001",
+      "query": "hi",
+      "language": "en",
+      "audience": "industry",
+      "timestamp": "2026-09-29T23:37:23.001Z",
+      "count": 1
+    },
+    {
+      "id": "unans-1790725042340",
+      "query": "What is a QCO?",
+      "language": "en",
+      "audience": "industry",
+      "timestamp": "2026-09-29T23:37:22.340Z",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "totalQueries": 11,
+    "positiveFeedback": 0,
+    "negativeFeedback": 0,
+    "standardsSearched": 20,
+    "licensesVerified": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "BIS Sahayak",
+  "description": "AI Assistant for Indian Standards & BIS Services for industries and consumers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

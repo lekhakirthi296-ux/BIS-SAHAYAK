@@ -1,0 +1,110 @@
+{
+  "_comment": "SAMPLE DATA for BIS Sahayak Demo License Verification. Verify official licenses on manakonline.in or BIS CARE Mobile App.",
+  "disclaimer": "Demo data – verify on the official BIS portal (manakonline.in / crsbis.in / BIS CARE app)",
+  "licenses": [
+    {
+      "id": "lic-isi-001",
+      "type": "ISI",
+      "number": "CM/L-8400123456",
+      "holder": "Bajaj Electricals Ltd (Unit IV)",
+      "product": "Stationary Storage Electric Water Heater (25L Storage Geyser)",
+      "standard": "IS 302-2-21:2018",
+      "validity": "2027-05-31",
+      "status": "valid",
+      "address": "Plot No. 42, Sector 58, IMT Faridabad, Haryana - 121004",
+      "issueDate": "2019-06-01",
+      "brand": "Bajaj Shakti"
+    },
+    {
+      "id": "lic-isi-002",
+      "type": "ISI",
+      "number": "CM/L-7100987654",
+      "holder": "Steel Authority of India Limited (Bhilai Steel Plant)",
+      "product": "High Strength Deformed Steel Bars for Concrete Reinforcement (Fe 500D TMT)",
+      "standard": "IS 1786:2008",
+      "validity": "2028-03-31",
+      "status": "valid",
+      "address": "Bhilai Steel Plant Complex, Durg, Chhattisgarh - 490001",
+      "issueDate": "2010-04-15",
+      "brand": "SAIL TMT"
+    },
+    {
+      "id": "lic-isi-003",
+      "type": "ISI",
+      "number": "CM/L-6300456123",
+      "holder": "AquaPure Springs India Pvt Ltd",
+      "product": "Packaged Drinking Water (20L Polycarbonate Jar)",
+      "standard": "IS 14543:2024",
+      "validity": "2024-01-15",
+      "status": "expired",
+      "address": "Survey 114, Industrial Estate, Sriperumbudur, Tamil Nadu - 602105",
+      "issueDate": "2021-01-16",
+      "brand": "AquaPure"
+    },
+    {
+      "id": "lic-isi-004",
+      "type": "ISI",
+      "number": "CM/L-5200334455",
+      "holder": "Vega Auto Accessories Pvt Ltd",
+      "product": "Protective Helmets for Two-Wheeler Riders (Full Face Cruiser Series)",
+      "standard": "IS 4151:2020",
+      "validity": "2027-11-30",
+      "status": "valid",
+      "address": "Plot 12/B, Industrial Area, Belagavi, Karnataka - 590010",
+      "issueDate": "2018-12-01",
+      "brand": "Vega"
+    },
+    {
+      "id": "lic-crs-005",
+      "type": "CRS",
+      "number": "R-41001234",
+      "holder": "Samsung Electronics India Private Limited",
+      "product": "Laptop Computers (Galaxy Book Series)",
+      "standard": "IS 13252 (Part 1):2010",
+      "validity": "2026-10-15",
+      "status": "valid",
+      "address": "Logix Cyber Park, Tower C, Sector 62, Noida, Uttar Pradesh - 201301",
+      "issueDate": "2020-10-16",
+      "brand": "Samsung"
+    },
+    {
+      "id": "lic-crs-006",
+      "type": "CRS",
+      "number": "R-41005678",
+      "holder": "Xiaomi Technology India Private Limited",
+      "product": "Power Banks for Portable Applications (10000mAh Lithium-Polymer)",
+      "standard": "IS 13252 (Part 1):2010 & IS 16046 (Part 2):2018",
+      "validity": "2026-08-20",
+      "status": "valid",
+      "address": "Orchid Block E, Embassy Tech Village, Outer Ring Road, Bengaluru, Karnataka - 560103",
+      "issueDate": "2019-08-21",
+      "brand": "Mi Power Bank"
+    },
+    {
+      "id": "lic-crs-007",
+      "type": "CRS",
+      "number": "R-41099999",
+      "holder": "Apex Power Innovations Shenzen Co.",
+      "product": "Standalone AC Adaptors & Chargers",
+      "standard": "IS 13252 (Part 1):2010",
+      "validity": "2023-12-31",
+      "status": "suspended",
+      "address": "Baoan District, Shenzhen, Guangdong, China",
+      "issueDate": "2021-01-01",
+      "brand": "ApexCharge"
+    },
+    {
+      "id": "lic-hallmark-008",
+      "type": "HALLMARK",
+      "number": "HUID-AB92K4",
+      "holder": "Tanishq - Titan Company Limited",
+      "product": "22 Carat Gold Bangle (Purity 916)",
+      "standard": "IS 1417:2016",
+      "validity": "Permanent (HUID Registered)",
+      "status": "valid",
+      "address": "Assayed at BIS AHC #AHC-KA-0042, MG Road, Bengaluru, Karnataka",
+      "issueDate": "2024-04-10",
+      "brand": "Tanishq"
+    }
+  ]
+}

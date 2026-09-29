@@ -1,0 +1,591 @@
+{
+  "_comment": "SAMPLE DATA for BIS Sahayak AI Knowledge Base. Expanded to 65 authoritative chunks across all BIS regulatory areas.",
+  "lastUpdated": "2026-03-01",
+  "chunks": [
+    {
+      "id": "bis-overview-01",
+      "title": "Bureau of Indian Standards (BIS) Overview and Mandate",
+      "keywords": ["bis", "mandate", "bureau of indian standards", "act 2016", "national standards body"],
+      "content": "The Bureau of Indian Standards (BIS) is the National Standards Body of India established under the BIS Act 2016. Operating under the Ministry of Consumer Affairs, Food & Public Distribution, BIS is responsible for standardization, product marking, hallmarking, and conformity assessment. Official websites are bis.gov.in and manakonline.in. For consumer inquiries, BIS operates the BIS CARE Mobile App and National Toll-Free Helpline 1800-11-0001.",
+      "source": "Bureau of Indian Standards Act, 2016 & Official Portal",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-15"
+    },
+    {
+      "id": "scheme-isi-02",
+      "title": "Product Certification Scheme (ISI Mark - Scheme I)",
+      "keywords": ["isi mark", "scheme 1", "product certification", "cml number", "conformity assessment", "license"],
+      "content": "The ISI Mark (Product Certification Scheme I) is the primary third-party quality and safety certification in India. Under Scheme I, manufacturers apply on Manak Online (manakonline.in), maintain an in-house laboratory with calibrated test equipment, undergo a factory inspection by BIS technical officers, and have independent samples tested in BIS-recognized labs. Once approved, BIS grants a Certificate of Manufacture and License (CM/L) number, which must be stamped on products along with the specific IS number.",
+      "source": "BIS Conformity Assessment Regulations, 2018 (Scheme-I)",
+      "url": "https://www.manakonline.in",
+      "lastUpdated": "2026-02-10"
+    },
+    {
+      "id": "scheme-crs-03",
+      "title": "Compulsory Registration Scheme (CRS - Scheme II) for Electronics & IT",
+      "keywords": ["crs", "compulsory registration scheme", "scheme 2", "meity", "electronics", "r-number", "it products", "registration"],
+      "content": "The Compulsory Registration Scheme (CRS - Scheme II) applies to electronic, telecom, and IT equipment in coordination with MeitY and MNRE. Under CRS, foreign and domestic manufacturers submit product samples directly to BIS-recognized laboratories in India. Upon satisfactory test reports, BIS issues a unique Registration Number (R-number, e.g. R-41001234). Products must carry the official BIS standard label: 'Self Declaration - Conforming to IS [Number], R-[Number]'. No preliminary factory audit is required under CRS.",
+      "source": "MeitY Compulsory Registration Order & BIS CRS Portal",
+      "url": "https://www.crsbis.in",
+      "lastUpdated": "2026-01-20"
+    },
+    {
+      "id": "crs-process-04",
+      "title": "Step-by-Step Procedure to Register Electronics under CRS",
+      "keywords": ["crs registration", "how to register", "crs portal", "electronics registration", "test report", "r-number"],
+      "content": "To register electronics under CRS (Scheme II): (1) Create an account on the CRS portal (crsbis.in); (2) If foreign manufacturer, appoint an Authorized Indian Representative (AIR); (3) Submit product samples to a BIS-recognized test laboratory in India for safety testing against the applicable Indian Standard; (4) Obtain the test report (valid for 90 days from issuance); (5) Upload test report and submit application with prescribed fees on the CRS portal; (6) BIS scrutinizes the application and grants the R-number; (7) Affix the BIS standard mark and R-number on product and packaging before commercial shipment or customs clearance.",
+      "source": "BIS Guidelines for Grant of Registration under Scheme-II",
+      "url": "https://www.crsbis.in",
+      "lastUpdated": "2026-02-01"
+    },
+    {
+      "id": "scheme-hallmarking-05",
+      "title": "Hallmarking Scheme for Gold Jewellery (IS 1417 & HUID)",
+      "keywords": ["hallmark", "gold", "huid", "jewellery", "carat", "purity", "22k", "18k", "14k", "ahc"],
+      "content": "Hallmarking certifies the purity and fineness of gold and silver articles. Mandatory gold hallmarking applies across notified districts in India for three standard purity grades: 22K (916 fineness), 18K (750 fineness), and 14K (585 fineness) according to IS 1417. Every hallmarked gold ornament must bear three marks: (1) The BIS hallmark triangle logo, (2) Purity and fineness designation (e.g. 22K916), and (3) A 6-character alphanumeric laser-engraved Hallmark Unique Identification (HUID) code issued by an Assaying and Hallmarking Centre (AHC).",
+      "source": "BIS Hallmarking Regulations & IS 1417",
+      "url": "https://www.bis.gov.in/hallmarking-overview",
+      "lastUpdated": "2026-02-01"
+    },
+    {
+      "id": "silver-hallmarking-06",
+      "title": "Silver Hallmarking Scheme (IS 2112)",
+      "keywords": ["silver", "silver hallmarking", "is 2112", "purity 990", "purity 925", "sterling silver", "artefacts"],
+      "content": "Hallmarking of silver jewellery and artefacts is governed by IS 2112. Recognized silver purity grades include 990 (fine silver), 925 (sterling silver), 900, 835, and 800 parts per thousand. Silver articles assayed at BIS-recognized AHCs receive the BIS hallmark mark along with the purity grade and jeweller's identification. Silver hallmarking provides verified consumer protection against under-caratage and debased alloys.",
+      "source": "BIS Hallmarking Guidelines for Silver & IS 2112",
+      "url": "https://www.bis.gov.in/hallmarking-silver",
+      "lastUpdated": "2026-01-25"
+    },
+    {
+      "id": "huid-verification-07",
+      "title": "How to Verify Gold Jewellery HUID on BIS CARE App",
+      "keywords": ["verify huid", "huid verification", "bis care app", "gold verification", "6 digit code", "ahc number"],
+      "content": "Consumers can independently verify the authenticity of hallmarked gold jewellery using the free BIS CARE Mobile App: (1) Open BIS CARE App and tap 'Verify HUID'; (2) Enter the 6-character alphanumeric code laser-engraved on the jewellery piece; (3) The app instantly displays the Jeweller's BIS registration number and name, Assaying & Hallmarking Centre (AHC) details, article type (ring, bangle, chain), date of hallmarking, and certified purity grade. If the HUID does not appear or shows discrepancy, consumers can lodge a complaint directly in the app.",
+      "source": "BIS Consumer Affairs & HUID Verification Manual",
+      "url": "https://www.manakonline.in/MANAK/HUID",
+      "lastUpdated": "2026-02-15"
+    },
+    {
+      "id": "qco-basics-08",
+      "title": "Quality Control Orders (QCO) - Mandatory Legal Enforcement",
+      "keywords": ["qco", "quality control order", "mandatory", "section 16", "penalties", "customs", "dpiit", "enforcement"],
+      "content": "Under Section 16 of the BIS Act 2016, Central Ministries (such as DPIIT, Ministry of Steel, Ministry of Power, MeitY, and Ministry of Chemicals) issue Quality Control Orders (QCOs) in public interest, human safety, and environmental protection. When a product is covered under a QCO, manufacturing, importing, stocking, selling, or distributing that product without a valid BIS mark is a non-bailable offense punishable by fines up to Rs. 5 lakh or imprisonment up to 2 years, or both. Customs blocks all imports lacking mandatory BIS certification.",
+      "source": "BIS Act 2016 Section 16 & Gazette Notifications",
+      "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/",
+      "lastUpdated": "2026-02-15"
+    },
+    {
+      "id": "helmets-safety-09",
+      "title": "Protective Helmets for Two-Wheeler Riders (IS 4151 - Mandatory ISI Mark)",
+      "keywords": ["helmet", "helmets", "two wheeler helmet", "is 4151", "morth", "headgear", "motorcycle helmet", "isi mark"],
+      "content": "Two-wheeler rider protective helmets fall under mandatory BIS ISI certification (Scheme I) notified by the Ministry of Road Transport and Highways (MoRTH). All protective helmets sold or manufactured in India must conform to IS 4151:2020. The standard prescribes rigorous tests including impact attenuation, retention system dynamic strength, audibility, and peripheral vision. Selling helmets without the ISI mark (or with non-compliant markings) is illegal under both the Motor Vehicles Act and BIS Act 2016.",
+      "source": "MoRTH Helmet Quality Control Order & IS 4151:2020",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-10"
+    },
+    {
+      "id": "verify-isi-mark-10",
+      "title": "How to Verify an ISI Mark and CM/L Number",
+      "keywords": ["verify isi mark", "how to verify", "cml number", "fake mark", "bis care app", "authenticity check"],
+      "content": "To verify whether an ISI mark on a product is genuine: (1) Look for the standard ISI logo accompanied by the Indian Standard number above the mark (e.g. IS 302-2-21) and the 7-to-10 digit Certificate of Manufacture & License (CM/L) number below the mark; (2) Open the BIS CARE App or visit manakonline.in; (3) Navigate to 'Verify License / CM/L Number'; (4) Enter the CM/L number; (5) The system verifies whether the license is Valid, Expired, Suspended, or Cancelled, displaying the licensee's name, brand, product scope, and manufacturing address. An ISI mark without a CM/L number is fake.",
+      "source": "BIS Citizen Charter & License Verification Portal",
+      "url": "https://www.manakonline.in/MANAK/SearchLicence",
+      "lastUpdated": "2026-02-20"
+    },
+    {
+      "id": "complaint-filing-11",
+      "title": "How to File a Complaint About a Bad or Counterfeit Product",
+      "keywords": ["file complaint", "complaint", "fake isi mark", "substandard", "bad product", "grievance", "enforcement", "penalties"],
+      "content": "If you encounter a substandard product bearing an ISI mark, a fake mark without CM/L number, or deceptive hallmarking: (1) Open the BIS CARE App and tap 'File a Complaint', or email complaints@bis.gov.in, or call 1800-11-0001; (2) Select the grievance category (Misuse of Standard Mark, Substandard Product, or Hallmarking Fraud); (3) Provide product details, store name, brand, and address; (4) Attach supporting evidence: purchase bill/cash memo, photographs showing the product label, batch number, and mark; (5) BIS enforcement officers register an inspection/raid, seize non-compliant stock, and initiate criminal prosecution under Section 29 of the BIS Act.",
+      "source": "BIS Consumer Grievance Redressal Mechanism",
+      "url": "https://www.bis.gov.in/consumer-complaints",
+      "lastUpdated": "2026-02-22"
+    },
+    {
+      "id": "water-heaters-is302-12",
+      "title": "Electric Water Heaters & Geysers (IS 302-2-21 & IS 2082)",
+      "keywords": ["water heater", "geyser", "is 302-2-21", "is 2082", "is 302", "electric water heater", "immersion heater", "isi mark"],
+      "content": "Stationary storage electric water heaters (geysers) require mandatory BIS ISI certification (Scheme I) under Quality Control Orders. Safety is governed by IS 302-2-21 (Safety of household electrical appliances: Particular requirements for storage water heaters) read with general safety standard IS 302-1, and performance/energy efficiency is covered by IS 2082. All geysers must undergo high-voltage dielectric tests, standing heat loss tests, and pressure tank rupture resistance tests before receiving a CM/L license.",
+      "source": "Electrical Appliances QCO & IS 302-2-21",
+      "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/",
+      "lastUpdated": "2026-02-18"
+    },
+    {
+      "id": "is302-general-safety-13",
+      "title": "IS 302 General Electrical Safety Standards for Appliances",
+      "keywords": ["is 302", "is 302-1", "general safety", "electrical appliances", "electric shock", "insulation"],
+      "content": "IS 302 (Part 1) is the foundational Indian Standard prescribing safety requirements for household and similar electrical appliances operating on single-phase AC up to 250V or other voltages up to 480V. Specific Part 2 standards cover particular appliances: IS 302-2-3 (Electric Irons), IS 302-2-21 (Storage Water Heaters), IS 302-2-25 (Microwave Ovens), IS 302-2-26 (Clocks), and IS 302-2-35 (Instantaneous Water Heaters). Compliance with IS 302 ensures protection against electrical shock, excessive temperature, fire hazards, and mechanical injury.",
+      "source": "Bureau of Indian Standards Electrotechnical Committee (ETD 32)",
+      "url": "https://www.services.bis.gov.in",
+      "lastUpdated": "2026-01-30"
+    },
+    {
+      "id": "electric-iron-14",
+      "title": "Electric Irons Safety & Performance (IS 302-2-3 & IS 366)",
+      "keywords": ["electric iron", "steam iron", "dry iron", "is 302-2-3", "is 366", "isi mark", "appliances"],
+      "content": "Electric dry and steam irons are under mandatory BIS ISI certification. Safety requirements are codified in IS 302-2-3 and performance criteria in IS 366. Key laboratory tests include drop impact testing, soleplate temperature accuracy, cord flexing and pull relief, leakage current under damp conditions, and thermal fuse cut-off functioning to prevent home fires.",
+      "source": "Ministry of Heavy Industries Electrical Appliances QCO",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-18"
+    },
+    {
+      "id": "air-conditioners-15",
+      "title": "Room Air Conditioners (IS 1391 Part 1 & Part 2)",
+      "keywords": ["air conditioner", "ac", "room ac", "split ac", "window ac", "is 1391", "iseer", "isi mark"],
+      "content": "Unitary window air conditioners and split air conditioners must conform to IS 1391 Part 1 and Part 2 respectively under mandatory BIS certification. The standards evaluate rated cooling capacity in calorimeter test rooms, power factor, enclosure moisture resistance, maximum operating condition safety, refrigerant containment, and ISEER energy performance in coordination with BEE star rating norms.",
+      "source": "Air Conditioners Quality Control Order & IS 1391",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-12"
+    },
+    {
+      "id": "refrigerators-16",
+      "title": "Frost-Free and Direct-Cool Refrigerators (IS 17550 / IS 1476)",
+      "keywords": ["refrigerator", "fridge", "frost free", "direct cool", "is 17550", "is 1476", "isi mark"],
+      "content": "Household refrigerating appliances (direct-cool and frost-free refrigerators) are certified under Indian Standards IS 17550 (Part 1 and 2) and IS 1476. Certification requires rigorous testing for thermal insulation, pull-down temperature performance, compressor safety, electrical insulation, and flammability safeguards for eco-friendly hydrocarbon refrigerants (R600a).",
+      "source": "BIS Mechanical Engineering Division & QCO Guidelines",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-28"
+    },
+    {
+      "id": "drinking-water-is14543-17",
+      "title": "Packaged Drinking Water (IS 14543 - Mandatory ISI Mark)",
+      "keywords": ["packaged drinking water", "bottled water", "is 14543", "jar water", "fssai", "purified water", "isi mark"],
+      "content": "Packaged Drinking Water (other than natural mineral water) is governed by IS 14543 and falls under compulsory BIS certification mandated by both FSSAI regulations and BIS Act orders. Manufacturing bottling plants must feature enclosed filling sections, reverse osmosis or multi-barrier purification, and in-house chemical and microbiological testing facilities testing every batch for TDS, E. coli, coliforms, and pesticide residue limits (HPLC/GCMS).",
+      "source": "FSSAI & BIS Joint Notification & IS 14543",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-05"
+    },
+    {
+      "id": "mineral-water-is13428-18",
+      "title": "Packaged Natural Mineral Water (IS 13428)",
+      "keywords": ["mineral water", "natural mineral water", "is 13428", "spring water", "aquifer", "isi mark"],
+      "content": "Natural mineral water obtained directly from natural subterranean aquifers or springs must conform to IS 13428. Water must be packaged at the source without any chemical alteration other than aeration or filtration. Continuous microbiological monitoring, heavy metals screening, and radiation safety limits are mandatory.",
+      "source": "Bureau of Indian Standards IS 13428:2005",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-20"
+    },
+    {
+      "id": "toys-safety-is9873-19",
+      "title": "Toys Safety Quality Control Order (IS 9873 & IS 15644)",
+      "keywords": ["toys", "children toys", "is 9873", "is 15644", "electric toys", "dpiit", "choking hazard", "heavy metals", "isi mark"],
+      "content": "Under the DPIIT Toys (Quality Control) Order, all toys intended for children under 14 years old manufactured in or imported into India must bear the ISI mark. Non-electric toys must satisfy IS 9873 (Part 1 mechanical & physical safety, Part 2 flammability, Part 3 heavy metals migration). Electric toys must additionally comply with IS 15644. Artisanal and MSME toy makers with Udyam registration benefit from simplified testing protocols.",
+      "source": "DPIIT Toys (Quality Control) Order & IS 9873",
+      "url": "https://www.bis.gov.in/toys-certification",
+      "lastUpdated": "2026-01-30"
+    },
+    {
+      "id": "steel-tmt-is1786-20",
+      "title": "Steel TMT Rebars for Concrete Reinforcement (IS 1786)",
+      "keywords": ["steel", "tmt bars", "rebars", "is 1786", "fe 500d", "fe 550d", "reinforcement", "ministry of steel"],
+      "content": "High strength deformed steel bars and wires for concrete reinforcement (TMT rebars) must conform to IS 1786 under the Steel and Steel Products Quality Control Order. Steel mills must test each cast and batch for yield stress (Fe 415, Fe 500, Fe 550, Fe 600 grades), ultimate tensile strength, bend and rebend characteristics, and maximum limits for carbon, sulfur, and phosphorus.",
+      "source": "Ministry of Steel QCO & IS 1786",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-22"
+    },
+    {
+      "id": "structural-steel-is2062-21",
+      "title": "Structural Steel Plates, Sections and Bars (IS 2062)",
+      "keywords": ["structural steel", "steel plates", "is 2062", "angles", "beams", "weldability", "infrastructure"],
+      "content": "Hot rolled medium and high tensile structural steel used in civil bridges, buildings, towers, and industrial plants must conform to IS 2062. The standard mandates Charpy V-notch impact toughness tests, tensile properties, carbon equivalent limits for weldability, and surface defect inspection.",
+      "source": "Ministry of Steel QCO & IS 2062",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-16"
+    },
+    {
+      "id": "cement-ppc-is1489-22",
+      "title": "Portland Pozzolana Cement (PPC - IS 1489 Part 1 & 2)",
+      "keywords": ["cement", "ppc", "portland pozzolana cement", "is 1489", "fly ash", "concrete", "isi mark"],
+      "content": "Portland Pozzolana Cement based on fly ash (Part 1) or calcined clay (Part 2) is under mandatory BIS certification under IS 1489. Cement manufacturers must continuously verify 3-day, 7-day, and 28-day compressive strengths, Blaine fineness, initial/final setting times, and soundness via Le-Chatelier and autoclave methods.",
+      "source": "Cement (Quality Control) Order & IS 1489",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-12"
+    },
+    {
+      "id": "cement-opc-is269-23",
+      "title": "Ordinary Portland Cement (OPC - IS 269)",
+      "keywords": ["opc", "cement 43 grade", "cement 53 grade", "is 269", "compressive strength", "isi mark"],
+      "content": "IS 269 prescribes requirements for 33, 43, and 53 grade Ordinary Portland Cement widely used in bridges, pre-cast structures, and high-rise foundations. Testing includes insoluble residue, loss on ignition, magnesia content, and heat of hydration. Each bag must be marked with the ISI mark, manufacturer details, and date of packing.",
+      "source": "Bureau of Indian Standards IS 269:2015",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-12"
+    },
+    {
+      "id": "cables-wires-is694-24",
+      "title": "PVC Insulated Electric Cables and Wires up to 1100V (IS 694)",
+      "keywords": ["cables", "wires", "pvc cables", "is 694", "house wiring", "electrical safety", "isi mark", "conductor"],
+      "content": "PVC insulated unsheathed and sheathed cables with copper or aluminum conductors for voltages up to 1100V are governed by IS 694 and mandatory ISI certification. Mandatory tests include conductor resistance (preventing overheating), insulation tensile strength, high-voltage spark testing, oxygen index, and flame retardancy to eliminate electrical fire risks in buildings.",
+      "source": "Electrical Wires & Cables QCO & IS 694",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-02"
+    },
+    {
+      "id": "switches-sockets-is3854-25",
+      "title": "Switches for Domestic Electrical Installations (IS 3854)",
+      "keywords": ["switches", "sockets", "is 3854", "electrical switch", "isi mark", "domestic installation"],
+      "content": "Manually operated switches for domestic electrical installations must comply with IS 3854 under mandatory certification. Testing includes an endurance cycle test of 40,000 switching operations under full load, breaking capacity, thermal glow-wire flammability testing, and clearance distances to prevent arcing and electrical fires.",
+      "source": "Electrical Accessories QCO & IS 3854",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-04"
+    },
+    {
+      "id": "lpg-cylinders-is3196-26",
+      "title": "LPG Gas Cylinders (IS 3196 Part 1 & Part 3)",
+      "keywords": ["lpg cylinder", "cooking gas", "is 3196", "gas cylinder", "peso", "liquefied petroleum gas", "isi mark"],
+      "content": "Welded low carbon steel cylinders for domestic and commercial LPG storage are governed by IS 3196 under mandatory ISI certification. Cylinders undergo hydrostatic stretch testing at 25 kg/cm², pneumatic leak testing, radiographical weld inspection, and burst pressure testing. Manufacturing is tightly regulated in coordination with PESO and public sector oil marketing companies (IOCL, BPCL, HPCL).",
+      "source": "Gas Cylinders Rules & IS 3196",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-19"
+    },
+    {
+      "id": "lpg-regulators-is9798-27",
+      "title": "LPG Pressure Regulators and Gas Stoves (IS 9798 & IS 4246)",
+      "keywords": ["lpg regulator", "gas regulator", "gas stove", "is 9798", "is 4246", "gas valve", "isi mark"],
+      "content": "Low-pressure regulators fitted on domestic LPG cylinders must conform to IS 9798, while domestic gas stoves must conform to IS 4246. Regulators are checked for outlet pressure stability, shut-off pressure limits, diaphragm rubber endurance, and complete absence of gas leakage under high operating pressures.",
+      "source": "BIS Petroleum & Gas Equipment Standards",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-19"
+    },
+    {
+      "id": "batteries-lithium-is16046-28",
+      "title": "Lithium-Ion Cells and Batteries for Mobiles & Laptops (IS 16046)",
+      "keywords": ["lithium battery", "mobile battery", "is 16046", "battery", "laptop battery", "power bank battery", "crs"],
+      "content": "Secondary sealed lithium cells and battery packs used in smartphones, power banks, and portable computers are regulated under CRS (Scheme II) by IS 16046 (Part 2). Required safety tests include external short-circuit, continuous charging, thermal abuse (130°C heating test), mechanical drop and vibration, and forced internal short-circuit to prevent thermal runaway and explosive fires.",
+      "source": "MeitY CRS Electronics Order & IS 16046-2",
+      "url": "https://www.crsbis.in",
+      "lastUpdated": "2026-01-18"
+    },
+    {
+      "id": "batteries-lead-acid-is7372-29",
+      "title": "Lead-Acid Automotive and Inverter Batteries (IS 7372 & IS 13369)",
+      "keywords": ["lead acid battery", "car battery", "inverter battery", "is 7372", "is 13369", "battery certification"],
+      "content": "Lead-acid storage batteries used in motor vehicles conform to IS 7372, while stationary valve-regulated lead-acid (VRLA) batteries for inverters and UPS systems conform to IS 13369. Standards mandate cold cranking ampere (CCA) rating verification, charge acceptance, life cycle endurance, and acid mist emission controls under battery waste management rules.",
+      "source": "Bureau of Indian Standards Electrotechnical Standards",
+      "url": "https://www.services.bis.gov.in",
+      "lastUpdated": "2026-01-10"
+    },
+    {
+      "id": "laptops-computers-is13252-30",
+      "title": "Laptops, Tablets, and Information Technology Equipment (IS 13252 Part 1)",
+      "keywords": ["laptop", "tablet", "computer", "it equipment", "is 13252", "crs", "r-number", "pos terminal"],
+      "content": "Information technology hardware including desktop PCs, laptops, tablets, scanners, printers, and POS terminals are certified under CRS (Scheme II) conforming to IS 13252 (Part 1). The standard tests for insulation barrier adequacy, touch current, thermal heating of components, and fire enclosure integrity. Importers must hold an active BIS R-number prior to customs arrival.",
+      "source": "MeitY Electronics CRO & IS 13252-1",
+      "url": "https://www.crsbis.in",
+      "lastUpdated": "2026-01-20"
+    },
+    {
+      "id": "led-lamps-is16102-31",
+      "title": "Self-Ballasted LED Lamps and Drivers (IS 16102 & IS 15885)",
+      "keywords": ["led light", "led lamp", "led bulb", "is 16102", "is 15885", "led driver", "crs"],
+      "content": "Self-ballasted LED lamps for general lighting are certified under CRS against IS 16102 (Part 1 Safety & Part 2 Performance), while electronic controlgear (drivers) are certified under IS 15885 (Part 2/Sec 13). Safety checks prevent electric shock, excessive cap temperature, and harmonic distortion.",
+      "source": "MeitY Lighting CRO & BIS CRS",
+      "url": "https://www.crsbis.in",
+      "lastUpdated": "2026-01-24"
+    },
+    {
+      "id": "power-banks-32",
+      "title": "Portable Power Banks (IS 13252 Part 1 & IS 16046)",
+      "keywords": ["power bank", "portable charger", "is 13252", "is 16046", "crs", "r-number"],
+      "content": "Portable power banks require mandatory BIS Compulsory Registration Scheme (CRS) certification. Safety evaluation encompasses overall circuit protection under IS 13252 (Part 1) and internal lithium battery cell testing under IS 16046 (Part 2). Products must bear the official BIS CRS registration label.",
+      "source": "MeitY CRS Product Schedule",
+      "url": "https://www.crsbis.in",
+      "lastUpdated": "2026-01-22"
+    },
+    {
+      "id": "footwear-leather-is15844-33",
+      "title": "Footwear Quality Control Orders (Leather, Sports and Rubber Shoes)",
+      "keywords": ["footwear", "shoes", "leather shoes", "sports shoes", "is 15844", "is 3735", "dpiit qco", "footwear certification"],
+      "content": "DPIIT notified mandatory BIS ISI certification for footwear through two key orders: Footwear Made from Leather and Other Materials Order, and Footwear Made from All-Rubber and Polymeric Materials Order. Standards include IS 15844 (Sports footwear), IS 3735 (Canvas shoes rubber sole), and IS 17043 (Derby leather shoes). Shoes undergo outsole abrasion, sole flexing, and bond adhesion testing. Micro footwear makers enjoy extended compliance phases.",
+      "source": "DPIIT Footwear Quality Control Orders",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-14"
+    },
+    {
+      "id": "safety-footwear-is15298-34",
+      "title": "Industrial Personal Protective Safety Footwear (IS 15298 Part 2)",
+      "keywords": ["safety shoes", "safety footwear", "is 15298", "steel toe", "protective shoes", "industrial safety"],
+      "content": "Occupational protective footwear used in factories, construction sites, and mines must conform to IS 15298 (Part 2). Tests verify steel toe-cap impact resistance (up to 200 Joules), puncture-resistant midsole plates, anti-static conductivity, and oil/chemical resistance of the sole.",
+      "source": "Bureau of Indian Standards Safety Footwear Standards",
+      "url": "https://www.services.bis.gov.in",
+      "lastUpdated": "2026-01-15"
+    },
+    {
+      "id": "textiles-silk-cotton-35",
+      "title": "Textiles, Silk Sarees and Handloom Standards",
+      "keywords": ["textiles", "silk", "cotton", "pure silk", "silk mark", "handloom", "yarn", "color fastness"],
+      "content": "BIS standardizes textile materials including pure silk fabrics (IS 4613), cotton yarns (IS 171), and polyester blended fabrics (IS 15853). Laboratory testing verifies yarn count, fiber composition, tensile strength, shrinkage, and color fastness to washing, perspiration, and rubbing under eco-friendly non-azo dye guidelines.",
+      "source": "BIS Textile Division Standards",
+      "url": "https://www.bis.gov.in/textile-division",
+      "lastUpdated": "2026-01-11"
+    },
+    {
+      "id": "medical-textiles-masks-36",
+      "title": "Medical Textiles, Surgical Masks & PPE Coveralls (IS 16289 & IS 17423)",
+      "keywords": ["medical textiles", "masks", "surgical mask", "ppe", "is 16289", "is 17423", "bacterial filtration"],
+      "content": "Medical face masks must conform to IS 16289 specifying bacterial filtration efficiency (BFE >= 98%), sub-micron particulate filtration, differential pressure breathability, and splash resistance. Medical PPE coveralls for healthcare workers conform to IS 17423 testing synthetic blood penetration resistance.",
+      "source": "Medical Textiles Division & MoT Guidelines",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-14"
+    },
+    {
+      "id": "geotextiles-37",
+      "title": "Geotextiles and Technical Textiles for Roads & Railways (IS 16391)",
+      "keywords": ["geotextiles", "technical textiles", "is 16391", "road construction", "drainage", "soil stabilization"],
+      "content": "Polymeric non-woven and woven geotextiles used in pavement stabilization, railway track beds, and coastal slope protection are governed by IS 16391 under the Technical Textiles Quality Control Order. Crucial parameters tested include puncture puncture strength (CBR test), permittivity, apparent opening size (AOS), and tensile grab strength.",
+      "source": "Ministry of Textiles Technical Textiles QCO",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-17"
+    },
+    {
+      "id": "food-milk-powder-38",
+      "title": "Infant Milk Substitutes and Milk Powder (IS 14433 & IS 1165 - Mandatory ISI)",
+      "keywords": ["milk powder", "infant food", "baby food", "is 14433", "is 1165", "dairy", "mandatory isi", "fssai"],
+      "content": "Infant milk substitutes (baby food) and milk cereal-based weaning foods fall under mandatory BIS ISI certification as per the Infant Milk Substitutes Act and FSSAI rules. Standards IS 14433 and IS 1165 mandate strict nutritional composition (protein, fat, vitamins, minerals), absence of pathogenic bacteria (Salmonella, Listeria), and limits on heavy metal contaminants.",
+      "source": "IMS Act, FSSAI Regulations & BIS IS 14433",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-08"
+    },
+    {
+      "id": "food-biscuits-edible-oils-39",
+      "title": "Fortified Food Products and Edible Oils Standards",
+      "keywords": ["edible oil", "biscuits", "fortified food", "is 1011", "is 544", "vitamin a", "vitamin d", "food quality"],
+      "content": "BIS standardizes edible oils, biscuits (IS 1011), and fortified foods in collaboration with FSSAI. Standards specify acid value, peroxide value, moisture limits, and minimum micro-nutrient fortification levels for Vitamin A and Vitamin D, verifying quality through gas chromatography and spectrophotometry.",
+      "source": "Food and Agriculture Division (FAD) & FSSAI Standards",
+      "url": "https://www.bis.gov.in/food-standards",
+      "lastUpdated": "2026-01-12"
+    },
+    {
+      "id": "pressure-cookers-is2347-40",
+      "title": "Domestic Pressure Cookers (IS 2347 - Mandatory ISI Mark)",
+      "keywords": ["pressure cooker", "is 2347", "safety valve", "cookware", "dpiit qco", "bursting pressure", "isi mark"],
+      "content": "Domestic pressure cookers of aluminum alloy or stainless steel must comply with IS 2347 under the Domestic Pressure Cooker Quality Control Order. Critical safety tests verify operating pressure regulation, safety relief valve release pressures, proof pressure hydrostatic testing to 3 times operating pressure, and thermal handle insulation.",
+      "source": "DPIIT Domestic Pressure Cooker QCO & IS 2347",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-16"
+    },
+    {
+      "id": "solar-pv-modules-is14286-41",
+      "title": "Solar Photovoltaic (PV) Modules (IS 14286 & IS/IEC 61730)",
+      "keywords": ["solar pv", "solar panel", "is 14286", "is 61730", "mnre", "crs", "solar module"],
+      "content": "Crystalline silicon terrestrial photovoltaic modules must conform to IS 14286 / IEC 61215 for design qualification and IS/IEC 61730 for safety qualification under MNRE CRS orders. Required environmental tests include thermal cycling (-40°C to +85°C), damp heat testing (85°C at 85% RH for 1000 hours), mechanical load tests (2400 Pa), and hail impact resistance.",
+      "source": "MNRE Solar Photovoltaics Compulsory Registration Order",
+      "url": "https://www.crsbis.in",
+      "lastUpdated": "2026-01-14"
+    },
+    {
+      "id": "solar-inverters-is16221-42",
+      "title": "Solar Grid-Tied and Off-Grid Inverters (IS 16221 Part 2)",
+      "keywords": ["solar inverter", "inverter", "is 16221", "grid tied inverter", "mnre", "crs"],
+      "content": "Power converters and inverters used in photovoltaic energy systems are certified under CRS conforming to IS 16221 (Part 2). Testing covers anti-islanding grid protection, insulation resistance, temperature rise under maximum load, harmonic distortion, and overvoltage surge withstand capabilities.",
+      "source": "MNRE & BIS Solar Inverter Standards",
+      "url": "https://www.crsbis.in",
+      "lastUpdated": "2026-01-14"
+    },
+    {
+      "id": "automotive-tyres-is15638-43",
+      "title": "Automotive Tyres for Two-Wheelers and Passenger Cars (IS 15638 & IS 15633)",
+      "keywords": ["tyres", "tires", "car tyre", "two wheeler tyre", "is 15638", "is 15633", "road safety", "isi mark"],
+      "content": "Pneumatic tyres for two-wheelers (IS 15638) and passenger cars (IS 15633) are under mandatory BIS ISI certification. Testing involves high-speed drum endurance at elevated temperatures, plunger energy penetration to test casing strength, bead unseating resistance, and tread wear indicator compliance.",
+      "source": "Ministry of Commerce Pneumatic Tyres QCO",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-10"
+    },
+    {
+      "id": "fmcs-foreign-scheme-44",
+      "title": "Foreign Manufacturers Certification Scheme (FMCS)",
+      "keywords": ["fmcs", "foreign manufacturer", "import", "overseas factory", "air", "authorized indian representative"],
+      "content": "Under FMCS (Scheme I for overseas makers), foreign factories exporting goods under mandatory ISI marks to India must obtain a BIS license. Key requirements: appoint an Authorized Indian Representative (AIR) residing in India, host BIS officers for overseas factory inspection, submit factory samples for testing in Indian BIS-recognized labs, and furnish a USD 10,000 Performance Bank Guarantee (PBG).",
+      "source": "BIS FMCS Operating Guidelines",
+      "url": "https://www.bis.gov.in/fmcs",
+      "lastUpdated": "2026-01-25"
+    },
+    {
+      "id": "simplified-procedure-45",
+      "title": "Simplified Procedure for Domestic ISI License Grant",
+      "keywords": ["simplified procedure", "fast track", "manakonline", "factory inspection", "grant of license", "timeline"],
+      "content": "Under the Simplified Procedure on Manak Online, domestic manufacturers get factory samples pre-tested at a BIS-recognized laboratory. Uploading the satisfactory test report with the application enables BIS to conduct factory inspection within 15 to 30 days and grant the license swiftly, dramatically reducing processing time compared to the traditional 3 to 4 month normal procedure.",
+      "source": "BIS Guidelines for Grant of License (Simplified Procedure)",
+      "url": "https://www.manakonline.in",
+      "lastUpdated": "2026-02-08"
+    },
+    {
+      "id": "msme-benefits-46",
+      "title": "Financial Concessions for MSMEs and Women Entrepreneurs",
+      "keywords": ["msme", "concession", "discount", "udyam", "micro enterprise", "small enterprise", "fee rebate"],
+      "content": "BIS grants major financial concessions to enterprises with a valid Udyam Registration Certificate: (1) 50% concession on application fee, annual license fee, and minimum marking fee for Micro enterprises; (2) 20% concession on annual license fee and minimum marking fee for Small enterprises; (3) Additional 10% rebate for women-owned enterprises. Concessions apply to both initial applications and renewals.",
+      "source": "BIS Policy on Financial Concessions to MSMEs & Startups",
+      "url": "https://www.bis.gov.in/msme-schemes",
+      "lastUpdated": "2026-01-05"
+    },
+    {
+      "id": "tatkal-testing-47",
+      "title": "Tatkal Scheme for Fast-Track Testing in BIS Laboratories",
+      "keywords": ["tatkal", "tatkal testing", "fast track test", "bis lab", "sample testing", "expedited"],
+      "content": "BIS operates the Tatkal testing scheme across its Central, Regional, and Branch laboratories for urgent sample evaluations. Under the Tatkal scheme, test reports are delivered in approximately half the normal processing time upon payment of expedited fees (typically 1.5x to 2x the standard testing charges). Useful for urgent simplified applications or tender compliance.",
+      "source": "BIS Central Laboratory Management Guidelines",
+      "url": "https://www.bis.gov.in/laboratory-facilities",
+      "lastUpdated": "2026-01-12"
+    },
+    {
+      "id": "lab-recognition-lrs-48",
+      "title": "BIS Laboratory Recognition Scheme (LRS)",
+      "keywords": ["lrs", "laboratory recognition", "testing labs", "nabl", "iso 17025", "lab accreditation"],
+      "content": "Under the Laboratory Recognition Scheme (LRS), BIS assesses and recognizes independent testing laboratories to evaluate samples for product certification. To qualify, laboratories must possess NABL accreditation (ISO/IEC 17025) for specific Indian Standards, demonstrate qualified test personnel, and pass BIS technical audits. The directory of active recognized labs is available on Manak Online.",
+      "source": "BIS Laboratory Recognition Scheme Manual",
+      "url": "https://www.manakonline.in/MANAK/LRS",
+      "lastUpdated": "2026-02-04"
+    },
+    {
+      "id": "bis-care-app-features-49",
+      "title": "BIS CARE Mobile App Complete Feature Guide",
+      "keywords": ["bis care app", "mobile app", "features", "verify license", "verify huid", "consumer app", "file complaint"],
+      "content": "The BIS CARE App (Android and iOS) provides 4 primary tools: (1) 'Verify License / R-Number': verifies authenticity, licensee name, brand, and validity status of any ISI CM/L or CRS R-number; (2) 'Verify HUID': retrieves jeweller, AHC, purity grade, and hallmarking date of gold jewellery; (3) 'File a Complaint': allows geo-tagged photo complaints against substandard goods or fake marks; (4) 'Know Your Standards': search Indian Standards catalog directly on mobile.",
+      "source": "BIS Consumer Affairs Mobile Services",
+      "url": "https://www.bis.gov.in/consumer-portal/bis-care-app/",
+      "lastUpdated": "2026-02-20"
+    },
+    {
+      "id": "eco-mark-scheme-50",
+      "title": "ECO Mark Scheme for Environmentally Friendly Products",
+      "keywords": ["eco mark", "ecomark", "environment", "sustainable", "green products", "matka logo"],
+      "content": "The Government of India and BIS administer the ECO Mark scheme, symbolized by an earthen pot (Matka). It certifies that a product meets environmental criteria alongside Indian Standard quality specifications. Eligible categories include soaps, detergents, paints, paper, packaging materials, and architectural products.",
+      "source": "MoEFCC & BIS Eco Mark Regulations",
+      "url": "https://www.bis.gov.in/eco-mark-scheme",
+      "lastUpdated": "2026-01-11"
+    },
+    {
+      "id": "fees-cost-structure-51",
+      "title": "BIS Application Fees and Marking Fee Structure",
+      "keywords": ["fees", "cost", "application fee", "marking fee", "annual license fee", "manak online payment"],
+      "content": "Obtaining a BIS ISI license under Scheme-I involves: (1) Application Fee (Rs. 1,000 with MSME concessions); (2) Inspection Charges (based on man-day audit norms); (3) Independent Lab Testing Charges; (4) Annual License Fee (Rs. 1,000 per year); (5) Production Marking Fee (calculated on production volume subject to an annual minimum fee). Official payments must be executed via Manak Online.",
+      "source": "Schedule of BIS Fees on Manak Online",
+      "url": "https://www.manakonline.in",
+      "lastUpdated": "2026-02-11"
+    },
+    {
+      "id": "license-renewal-52",
+      "title": "License Renewal and Surveillance Audits",
+      "keywords": ["license renewal", "renewal", "surveillance", "market sample", "factory audit", "cml renewal"],
+      "content": "A BIS ISI license (CM/L) is initially granted for 1 to 2 years and can be renewed for up to 5 years upon filing renewal forms and paying marking fees. During the validity period, BIS officers perform unannounced factory surveillance audits and collect open-market random samples for independent laboratory testing. Repeated testing failures lead to license suspension.",
+      "source": "BIS Conformity Assessment Regulations 2018",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-09"
+    },
+    {
+      "id": "smart-watches-wearables-53",
+      "title": "Smart Watches, Bluetooth Speakers, and Wearables (IS 13252 / IS 616)",
+      "keywords": ["smart watch", "bluetooth speaker", "wearable", "is 13252", "is 616", "crs", "electronics"],
+      "content": "Smart watches, fitness trackers, wireless audio equipment, and Bluetooth speakers require mandatory registration under CRS (Scheme II). Equipment is evaluated for battery electrical safety (IS 16046) and device safety (IS 13252 Part 1 or IS 616 for audio/video equipment).",
+      "source": "MeitY CRS Wearables Notification",
+      "url": "https://www.crsbis.in",
+      "lastUpdated": "2026-01-16"
+    },
+    {
+      "id": "toys-handloom-artisanal-54",
+      "title": "Handloom and Artisanal Toys Exemption & Concessions",
+      "keywords": ["artisanal toys", "wooden toys", "handloom toys", "is 9873", "exemption", "channapatna", "kondapalli"],
+      "content": "To safeguard traditional Indian crafts (such as Channapatna wooden toys, Kondapalli toys, and Varanasi wooden crafts), DPIIT introduced exemptions and simplified audit paths for registered handloom and handicraft artisans holding Artisan ID cards or MSME Udyam registration, easing heavy testing costs while ensuring non-toxic paint standards.",
+      "source": "DPIIT Amendment Order on Handicraft Toys",
+      "url": "https://www.bis.gov.in/toys-certification",
+      "lastUpdated": "2026-01-28"
+    },
+    {
+      "id": "penalties-counterfeit-55",
+      "title": "Penalties for Fake ISI Marks and Violations of BIS Act 2016",
+      "keywords": ["penalties", "fake isi mark", "section 29", "punishment", "fine", "imprisonment", "seizure", "raid"],
+      "content": "Under Section 29 of the BIS Act 2016, any person or company using a counterfeit standard mark, using the ISI mark without a valid license, or violating mandatory Quality Control Orders faces severe legal penalties: imprisonment for up to two years, or a monetary fine of not less than Rs. 2 lakh extending up to ten times the value of goods produced or sold, or both. BIS Enforcement wings routinely carry out raids and seizures across all states.",
+      "source": "BIS Act 2016 Penalties & Enforcement Division",
+      "url": "https://www.bis.gov.in/enforcement-guidelines",
+      "lastUpdated": "2026-02-18"
+    },
+    {
+      "id": "paints-lead-content-56",
+      "title": "Lead Content in Household and Decorative Paints (IS 15489 & IS 101)",
+      "keywords": ["paints", "lead in paint", "lead content", "is 15489", "decorative paint", "qco", "environment"],
+      "content": "Under the Regulation of Lead Contents in Household and Decorative Paints Rules, all architectural paints manufactured or imported in India must restrict lead content to a maximum of 90 ppm. The product certification scheme requires laboratory testing of pigment lead levels to prevent childhood lead poisoning and environmental hazards.",
+      "source": "MoEFCC Lead in Paint Regulations & BIS Standards",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": "plywood-wood-products-57",
+      "title": "Plywood, Flush Doors and Wooden Panels (IS 303 & IS 710)",
+      "keywords": ["plywood", "flush doors", "is 303", "is 710", "marine plywood", "commercial plywood", "qco"],
+      "content": "Plywood for general purposes (IS 303), marine plywood (IS 710), and wooden flush door shutters (IS 2202) fall under mandatory Quality Control Orders notified by DPIIT. Manufacturers must hold an ISI license with factory testing for moisture resistance, glue shear strength, water resistance immersion cycles, and mycological resistance.",
+      "source": "DPIIT Wood Based Products QCO",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-02-14"
+    },
+    {
+      "id": "smart-meters-58",
+      "title": "Smart Electricity Meters and AMI Systems (IS 16444)",
+      "keywords": ["smart meter", "electricity meter", "is 16444", "prepaid meter", "ami", "isi mark"],
+      "content": "AC static direct-connected smart electricity meters used in National Smart Grid rollouts must conform to IS 16444 (Part 1 and 2). Testing verifies metrological accuracy, anti-tampering sensors, power quality tolerance, automated two-way communication protocols, and cyber-security resilience against unauthorized firmware flashing.",
+      "source": "Ministry of Power & BIS Electrotechnical Standards",
+      "url": "https://www.services.bis.gov.in",
+      "lastUpdated": "2026-01-20"
+    },
+    {
+      "id": "consumer-careline-contacts-59",
+      "title": "BIS Consumer Helpline, Regional Offices and Branch Directory",
+      "keywords": ["helpline", "toll free", "1800-11-0001", "contact bis", "branch office", "headquarters", "regional office"],
+      "content": "BIS Headquarters is located at Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002. BIS operates 5 Regional Offices (Northern at Chandigarh, Western at Mumbai, Eastern at Kolkata, Southern at Chennai, Central at Delhi) and over 35 Branch Offices nationwide. The National Consumer Toll-Free Helpline is 1800-11-0001, and direct email inquiries can be sent to info@bis.gov.in or complaints@bis.gov.in.",
+      "source": "BIS Directory & Citizen Services",
+      "url": "https://www.bis.gov.in/contact-us",
+      "lastUpdated": "2026-02-25"
+    },
+    {
+      "id": "manakonline-services-60",
+      "title": "Manak Online e-BIS Complete Services Portal",
+      "keywords": ["manakonline", "e-bis", "portal", "online application", "know your standard", "laboratory portal"],
+      "content": "Manak Online (manakonline.in) is the unified digital platform for all Bureau of Indian Standards services. Modules include: e-BIS for Scheme-I domestic license applications, FMCS module for foreign manufacturers, CRS portal for electronics registration, Hallmarking Portal for jewellers and AHCs, LRS module for testing laboratories, and the Public Search directory for verifying licenses and standard catalogs.",
+      "source": "Manak Online Portal (e-Governance in BIS)",
+      "url": "https://www.manakonline.in",
+      "lastUpdated": "2026-02-20"
+    },
+    {
+      "id": "automotive-glass-is2553-61",
+      "title": "Safety Glass for Road Vehicles (IS 2553 Part 2)",
+      "keywords": ["safety glass", "windshield", "automotive glass", "toughened glass", "laminated glass", "is 2553"],
+      "content": "Laminated safety windscreens and toughened glass for automotive side and rear windows must conform to IS 2553 (Part 2) under mandatory certification. Standards require ball-drop impact tests, headform impact simulation, optical distortion checks, and secondary image separation tests to prevent injury in road collisions.",
+      "source": "MoRTH Automotive Safety Regulations & IS 2553",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-17"
+    },
+    {
+      "id": "gold-refining-bars-is1418-62",
+      "title": "Gold Bullion and Refining Bars (IS 1418 & Good Delivery)",
+      "keywords": ["gold bars", "gold bullion", "refining", "is 1418", "999 purity", "good delivery", "ahc"],
+      "content": "Assaying and hallmarking of refined gold bullion bars conforms to IS 1418 for fire assay (cupellation) and IS 2790 for manufacturing gold alloys. BIS operates a refinery accreditation scheme to support India Good Delivery gold bars of 999.0 and 995.0 fineness on domestic commodities exchanges.",
+      "source": "BIS Precious Metals Division & IS 1418",
+      "url": "https://www.bis.gov.in/hallmarking-bullion",
+      "lastUpdated": "2026-01-22"
+    },
+    {
+      "id": "medical-devices-syringes-is10258-63",
+      "title": "Sterile Hypodermic Syringes and Needles (IS 10258 & IS 10654)",
+      "keywords": ["syringes", "needles", "sterile syringes", "medical devices", "is 10258", "is 10654", "cdsco"],
+      "content": "Single-use sterile hypodermic syringes are certified under IS 10258, and sterile hypodermic needles under IS 10654. Essential parameters evaluated in sterile cleanroom conditions include freedom from particulate matter, biological endotoxins (LAL test), dead space volume, needle sharpness, and sterilization bio-burden compliance.",
+      "source": "BIS Medical Equipment Division & CDSCO Guidelines",
+      "url": "https://www.services.bis.gov.in",
+      "lastUpdated": "2026-01-19"
+    },
+    {
+      "id": "fire-extinguishers-is15683-64",
+      "title": "Portable Fire Extinguishers (IS 15683)",
+      "keywords": ["fire extinguisher", "is 15683", "fire safety", "abc powder", "co2 extinguisher", "isi mark"],
+      "content": "Portable fire extinguishers (dry powder ABC, carbon dioxide CO2, water, and mechanical foam types) fall under mandatory certification against IS 15683. Testing includes fire suppression rating trials, cylinder hydrostatic bursting pressure safety margins, discharge range, and intermittent operation reliability.",
+      "source": "Ministry of Home Affairs Fire Safety & IS 15683",
+      "url": "https://www.bis.gov.in",
+      "lastUpdated": "2026-01-26"
+    },
+    {
+      "id": "packaging-plastic-recycling-is14534-65",
+      "title": "Recycled Plastics and Biodegradable Packaging (IS 14534 & IS 17899)",
+      "keywords": ["recycled plastic", "plastic packaging", "biodegradable plastic", "is 14534", "is 17899", "cpcb", "epr"],
+      "content": "Guidelines for recovery and recycling of plastics are specified under IS 14534, and biodegradable plastics under IS 17899. Certification mandates resin identification coding, limits on heavy metal additives, and aerobic biodegradation testing under controlled industrial composting conditions aligned with Central Pollution Control Board (CPCB) Extended Producer Responsibility (EPR) norms.",
+      "source": "CPCB Plastic Waste Management & BIS Chemical Division",
+      "url": "https://www.bis.gov.in/environmental-standards",
+      "lastUpdated": "2026-02-06"
+    }
+  ]
+}
